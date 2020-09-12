@@ -39,16 +39,19 @@ input[type='text']{
     width: 57%;
     border-radius: 5px;
     border: 2px solid white;
+    padding: 0 15px;
+    font-size: x-large;
 }
 input[type='text']:focus{
     border: 3px solid rgb(16,16,16);
     border-radius: 5px;
+    font-size: x-large;
 }
 
 
 button{
-    margin-right:2%;
-    width: 58%;
+    margin-right: -2%;
+    width: 63%;
     line-height: 3.5rem;
     color: white;
     background-color: rgb(242, 109, 53);
